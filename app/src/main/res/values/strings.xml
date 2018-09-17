@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">4.1SelectorFechaYHora</string>
+    <string name="choose_datetime">Elige fecha y hora:</string>
+    <string name="date_button">Fecha</string>
+    <string name="time_button">Hora</string>
+    <string name="date_picker">datePicker</string>
+    <string name="time_picker">timePicker</string>
+    <string name="date">"Date: "</string>
+    <string name="time">"Time: "</string>
+</resources>
